@@ -6,9 +6,9 @@
 
 ## Github stats ⚡
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ganonym741&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ganonym741&theme=gruvbox)](https://git.io/streak-stats)<br/>
 
-[![GitHub stats](https://github-readme-stats-omega-drab-36.vercel.app/api?username=ganonym741)](https://github-readme-stats-omega-drab-36.vercel.app)<br/>
+[![GitHub stats](https://github-readme-stats-omega-drab-36.vercel.app/api?username=ganonym741&theme=gruvbox)](https://github-readme-stats-omega-drab-36.vercel.app)<br/>
 
 ## Most used languages 📈
 
