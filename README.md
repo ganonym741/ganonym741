@@ -1,14 +1,14 @@
 # WIP
 
 ![](https://komarev.com/ghpvc/?username=ganonym741&color=brightgreen)<br/><br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=fandipras7&theme=gitdimmed&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ganonym741&theme=gitdimmed&no-frame=true&row=1)
 
 
 ## Github stats ⚡
 
-[![GitHub Streak](https://github-readme-streak-stats-beta-lyart.vercel.app?user=ganonym741)](https://git.io/streak-stats)<br/>
+![GitHub Streak](https://github-readme-streak-stats-beta-lyart.vercel.app?user=ganonym741)<br/>
 
-[![GitHub stats](https://github-readme-stats-ganonym741s-projects.vercel.app/api?username=ganonym741&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Ganonym741 GitHub stats](https://github-readme-stats-ganonym741s-projects.vercel.app/api?username=ganonym741)<br/>
 
 ## Most used languages 📈
 
