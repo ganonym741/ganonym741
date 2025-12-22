@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-beta-lyart.vercel.app?user=ganonym741)](https://git.io/streak-stats)<br/>
 
-[![GitHub stats](https://github-readme-stats-ganonym741s-projects.vercel.app/api?username=ganonym741&theme=gruvbox)](github-readme-stats-ganonym741s-projects.vercel.app)<br/>
+[![GitHub stats](https://github-readme-stats-ganonym741s-projects.vercel.app/api?username=ganonym741&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ## Most used languages 📈
 
