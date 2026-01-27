@@ -1,32 +1,77 @@
-# WIP
+# Hi there! 👋 I'm Gunawan Prasetyo
 
-![](https://komarev.com/ghpvc/?username=ganonym741&color=brightgreen)<br/><br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=ganonym741&theme=gitdimmed&no-frame=true&row=1)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganonym741&style=for-the-badge" alt="Profile Views" />
+  <a href="https://gdeev.aisco.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge" alt="Website Badge" />
+  </a>
+  <a href="mailto:gunawan.pras776@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gunawan.pras776@gmail.com-red?style=for-the-badge" alt="Email Badge" />
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+I'm a passionate **Software Developer** with expertise in building modern web applications and scalable backend systems. With a strong foundation in both frontend and backend technologies, I specialize in creating efficient, user-centric solutions that leverage the latest in web development and AI technologies.
 
 
-## Github stats ⚡
+## 🚀 Technical Expertise
 
-![GitHub Streak](https://github-readme-streak-stats-beta-lyart.vercel.app?user=ganonym741)<br/>
+### Frontend Development
+- **Frameworks:** Next.js, React, Tanstack Start
+- **Languages:** TypeScript, JavaScript
+- **Styling:** Tailwind CSS, SASS/SCSS
+- **State Management:** Redux Toolkit, Zustand, Tanstack Query
 
-![Ganonym741 GitHub stats](https://github-readme-stats-ganonym741s-projects.vercel.app/api?username=ganonym741)<br/>
+### Backend Development
+- **Languages:** Javascript/Typescript, Go, Python, C#
+- **Frameworks:** NestJS, Express, HonoJs, Fiber Go, Gin Gonic, Fastapi, DotNet
+- **Databases:** SQL, Redis, MongoDB, ChromaDB, Firestore
+- **Backend-as-a-Service:** Supabase, Firebase
 
-## Most used languages 📈
+### DevOps & Infrastructure
+- **Cloud Platform:** GCP, AWS
+- **Tools:** Git, Docker, Linux
+- **API Gateway:** Kong
+
+### AI & Data Engineering
+- **Vector Databases:** ChromaDB
+- **Message Queues:** Apache Kafka, Apache Pulsar, RabbitMQ, Google Pubsub, BullMq
+- **Workflow Orchestration:** Apache Airflow
+- **LLM Frameworks:** LangChain
+- **AI Services:** Gemini Multimodal, Glm, OpenAI
+
+## 📊 GitHub Statistics
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## 🎯 What I'm Working On
+
+- Building scalable web applications with modern frameworks
+- Implementing AI-powered features using LangChain and Google GenAI
+- Developing data pipelines with Apache Airflow and Kafka
+- Creating efficient backend systems with NestJS and Go
+- Exploring new technologies and contributing to open-source projects
 
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ganonym741's Top Languages" src="https://github-readme-stats-ganonym741s-projects.vercel.app/api/top-langs/?username=ganonym741&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-<!--
-**ganonym741/ganonym741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ganonym741" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ganonym741-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/gunawan-prasetyo-4aa0b4188/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gunawan%20Prasetyo-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gunawan.pras776@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gunawan.pras776@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <i>Always learning, always building. Let's create something amazing together! 🚀</i>
+</p>
