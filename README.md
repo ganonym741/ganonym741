@@ -18,7 +18,7 @@ I'm a passionate **Software Developer** with expertise in building modern web ap
 ## 🚀 Technical Expertise
 
 ### Frontend Development
-- **Frameworks:** Next.js, React, Tanstack Start
+- **Frameworks:** Next.js, React, Vue, Tanstack Stack
 - **Languages:** TypeScript, JavaScript
 - **Styling:** Tailwind CSS, SASS/SCSS
 - **State Management:** Redux Toolkit, Zustand, Tanstack Query
@@ -26,12 +26,12 @@ I'm a passionate **Software Developer** with expertise in building modern web ap
 ### Backend Development
 - **Languages:** Javascript/Typescript, Go, Python, C#
 - **Frameworks:** NestJS, Express, HonoJs, Fiber Go, Gin Gonic, Fastapi, DotNet
-- **Databases:** SQL, Redis, MongoDB, ChromaDB, Firestore
+- **Databases:** MySQL, PostgresQL, SQL-Server, Supabase DB, Redis, MongoDB, ChromaDB, Firestore
 - **Backend-as-a-Service:** Supabase, Firebase
 
 ### DevOps & Infrastructure
-- **Cloud Platform:** GCP, AWS
-- **Tools:** Git, Docker, Linux
+- **Cloud Platform:** GCP, AWS, Railway, Netlify
+- **Tools:** Git, Docker, Linux, Kubernetes
 - **API Gateway:** Kong
 
 ### AI & Data Engineering
