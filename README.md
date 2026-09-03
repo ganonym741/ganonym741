@@ -25,13 +25,13 @@ I'm a passionate **Software Developer** with expertise in building modern web ap
 
 ### Backend Development
 - **Languages:** Javascript/Typescript, Go, Python, C#
-- **Frameworks:** NestJS, Express, HonoJs, Fiber Go, Gin Gonic, Fastapi, DotNet
+- **Frameworks:** NestJS, Express, HonoJs, ElysiaJs, Fiber Go, Gin Gonic, Fastapi, DotNet
 - **Databases:** MySQL, PostgresQL, SQL-Server, Supabase DB, Redis, MongoDB, ChromaDB, Firestore
 - **Backend-as-a-Service:** Supabase, Firebase
 
 ### DevOps & Infrastructure
 - **Cloud Platform:** GCP, AWS, Railway, Netlify
-- **Tools:** Git, Docker, Linux, Kubernetes
+- **Tools:** Git, Docker, Linux, Kubernetes, Coolify, Rustfs, Cloudflare
 - **API Gateway:** Kong
 
 ### AI & Data Engineering
