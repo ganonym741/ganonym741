@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ganonym741&style=for-the-badge" alt="Profile Views" />
-  <a href="https://gpras.aistect.com/" target="_blank">
+  <a href="https://gpras.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge" alt="Website Badge" />
   </a>
   <a href="mailto:gunawan.pras776@gmail.com">
