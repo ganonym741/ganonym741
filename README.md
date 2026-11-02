@@ -54,7 +54,7 @@ I'm a passionate **Software Developer** with expertise in building modern web ap
   <a href="https://github.com/ganonym741" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ganonym741-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/gunawan-prasetyo-4aa0b4188/" target="_blank">
+  <a href="https://www.linkedin.com/in/gprass/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gunawan%20Prasetyo-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:gunawan.pras776@gmail.com">
